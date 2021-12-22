@@ -3,7 +3,7 @@ This is the file created when learning about git branches
 ------
 
 -----
-Title Songs
+All Songs
 -----
 Kehi Mitho Baata Gara - Narayan Gopal
 Timro Jasto Mutu Mero Pani - Narayan Gopal
@@ -15,3 +15,11 @@ Timilai Ma K Bhanu - Narayan Gopal
 
 Aljhechha kyare pachyyeuri - Narayan Gopal
 Mohani Laagala Hai - Narayan Gopal
+Chitti Bhitra - Sajjan Raj Vaidya
+Naganya Maaya - Sajjan Raj Vaidya
+Hataaridai Batasidai - Sajjan Raj Vaidya
+Happier - Ed Sheeran
+Perfect - Ed Sheeran
+Shape of You - Ed Sheeran
+Thinking out loud - Ed Sheeran
+Supermarket flowers - Ed Sheeran
