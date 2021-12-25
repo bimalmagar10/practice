@@ -1,0 +1,2 @@
+This fifth file has been added here remotely but not in the local working directory.
+This is for the practicing of the git fetch command.
